@@ -1,0 +1,8 @@
+#ignorer le fichier css
+style.css
+
+#ignorer el dossier entier
+/source
+
+#ignorer tous les fichiers avec l'extension .env
+*.env
